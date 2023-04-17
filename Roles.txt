@@ -1,0 +1,17 @@
+Modely					- Artem
+		
+Animace pro modely			- Artem
+			
+Skripty pro funkčnost hry		- Erik
+
+Hudba					- Artem
+
+Mapa (pozadí)				- Artem
+
+Menu (start hry)			- Artem
+
+Implementace unity do web. apl.		- Erik
+
+Databáze				- Erik
+
+Server					- Erik
